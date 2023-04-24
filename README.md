@@ -4,9 +4,7 @@
 
 ## <p align="center">Dataset</p>
 
-## <p align="center">Dataset</p>
 
-
-## <p align="center">Generation Results</p>
+## <p align="center">Generated  Results</p>
 
 ## <p align="center">Qualitative Results</p>
