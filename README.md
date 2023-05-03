@@ -17,3 +17,10 @@
 
 ## <p align="center">Additional results</p>
 ### Cat to Dog-Free
+![show_res](.//fig//add_cat.jpg)
+### Horse to Zebra-Free
+![show_res](.//fig//add_horse.jpg)
+### Cat Add Glasses
+![show_res](.//fig//cat_wg.jpg)
+### Sketch to Oil-Free
+![show_res](.//fig//add_sketch.jpg)
