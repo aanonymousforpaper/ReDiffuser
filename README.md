@@ -8,7 +8,9 @@
 ![show_res](.//fig//framework.svg)
 
 ## <p align="center">Dataset</p>
-<p>We collected three datasets containing images of CAT, HORSE, and SKETCH from LAION-5B, using an aesthetic filter with a weight of 9 during data collection. These data sets are publicly available and can be downloaded at a later date.
+- Cat(for Cat $\rightarrow$ Dog-free (C2D-F) and Cat with glasses-free (C2G-F)): Coming Soon
+- Horse(Horse $\rightarrow$ zebra-free (H2Z-F)): Coming Soon
+- Sketch(Sketch$\rightarrow$ oil-free (S2O-F)): Coming Soon
 
 ## <p align="center">Generated  Results</p>
 ![show_res](.//fig//exp_res.jpg)
