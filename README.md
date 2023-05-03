@@ -14,3 +14,4 @@
 ## <p align="center">Generated  Results</p>
 ![show_res](.//fig//exp_res.jpg)
 ## <p align="center">Qualitative Results</p>
+![show_res](.//fig//exp_table.png)
