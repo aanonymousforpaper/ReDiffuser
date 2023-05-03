@@ -9,7 +9,7 @@
 
 ## <p align="center">Dataset</p>
 <p>We collected three datasets containing images of CAT, HORSE, and SKETCH from LAION-5B, using an aesthetic filter with a weight of 9 during data collection. </p>
-<p>We propose three datasets for experiment：![Google Drive](https://drive.google.com/drive/folders/1UI-rLrxm1w1GWbZgaEcT_yq6OzwTrRqL)</p>
+<p>We propose three datasets for experiment：[Google Drive](https://drive.google.com/drive/folders/1UI-rLrxm1w1GWbZgaEcT_yq6OzwTrRqL) </p>
 
 ## <p align="center">Generated  Results</p>
 ![show_res](.//fig//exp_res.jpg)
