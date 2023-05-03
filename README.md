@@ -8,9 +8,9 @@
 ![show_res](.//fig//framework.svg)
 
 ## <p align="center">Dataset</p>
-- Cat(for Cat $\rightarrow$ Dog-free (C2D-F) and Cat with glasses-free (C2G-F)): Coming Soon
-- Horse(Horse $\rightarrow$ zebra-free (H2Z-F)): Coming Soon
-- Sketch(Sketch$\rightarrow$ oil-free (S2O-F)): Coming Soon
+- **Cat(C2D-F and C2G-F)**: Coming Soon
+- **Horse(H2Z-F)**: Coming Soon
+- **Sketch(S2O-F)**: Coming Soon
 
 ## <p align="center">Generated  Results</p>
 ![show_res](.//fig//exp_res.jpg)
