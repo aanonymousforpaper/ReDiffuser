@@ -8,7 +8,7 @@
 ![show_res](.//fig//framework.svg)
 
 ## <p align="center">Dataset</p>
-<p>We collected three datasets containing images of CAT, HORSE, and SKETCH from LAION-5B, using an aesthetic filter with a weight of 9 during data collection. These datasets can be downloaded in 
+<p>We collected three datasets containing images of CAT, HORSE, and SKETCH from LAION-5B, using an aesthetic filter with a weight of 9 during data collection. These data sets are publicly available and can be downloaded at a later date.
 
 ## <p align="center">Generated  Results</p>
 ![show_res](.//fig//exp_res.jpg)
