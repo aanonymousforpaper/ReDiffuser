@@ -8,7 +8,6 @@
 ![show_res](.//fig//framework.svg)
 
 ## <p align="center">Dataset</p>
-Our dataset 
 - **Cat(C2D-F and C2G-F)**: *Coming Soon*
 - **Horse(H2Z-F)**: *Coming Soon*
 - **Sketch(S2O-F)**: *Coming Soon*
