@@ -1,4 +1,4 @@
-# <p align="center">ReGeneration Learning of Diffusion Models with Rich Prompt for Zero-Shot Image Translation</p>
+# <p align="center">ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation</p>
 ![show_res](.//fig//show_res.jpg)
 ## <p align="center">Abstract</p>
    
